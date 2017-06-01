@@ -6,8 +6,12 @@
 *.class
 
 # Generated files
+<<<<<<< HEAD
 Library/
 Temp/
+=======
+bin/
+>>>>>>> 82bc4446dc81246c34f74e0de131c132d60d344d
 
 # Log Files
 *.log
